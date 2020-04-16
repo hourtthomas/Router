@@ -5,6 +5,11 @@
             "name": "hourtthomas",
             "email": "hourt.Thomas@gmail.com"
         }
-    ],
+    ],  
+    "autoload": {
+        "psr-4": {
+            "App\\":"src"
+        }
+    },
     "require": {}
 }
