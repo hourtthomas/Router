@@ -1,0 +1,10 @@
+{
+    "name": "thomas/router",
+    "authors": [
+        {
+            "name": "hourtthomas",
+            "email": "hourt.Thomas@gmail.com"
+        }
+    ],
+    "require": {}
+}
